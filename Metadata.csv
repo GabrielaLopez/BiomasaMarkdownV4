@@ -1,0 +1,8 @@
+PlotCode,PlotViewID,CountryName,ContinentName,Altitude,LatitudeDecimal,LongitudeDecimal,PlotArea,AllometricRegionID
+CUZ-01,40,PERU,South America,190,-12.53783,-69.05993,1,8
+CUZ-02,41,PERU,South America,190,-12.53992,-69.05783,1,8
+MNU-01,1117,PERU,South America,312,-11.88748,-71.40596,2.25,8
+MNU-05,70,PERU,South America,347,-11.87849,-71.40863,2.25,8
+PNY-04,707,PERU,South America,414,-10.34121,-75.2529,1,8
+BAC-01,355,VENEZUELA,South America,141,7.46322,-71.01307,0.25,8
+CBN-06,36,VENEZUELA,South America,2450,8.58333,-71.41667,0.25,8
